@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there, I'm Sabid 👋
+<p align="left">
+  <a href="www.linkedin.com/in/sabid-bin-yousuf-rahat-5860b2274"><img src="https://cdn.simpleicons.org/linkedin" width="32" /></a>
+  <a href="mailto:sabid1409@yahoo.com"><img src="https://cdn.simpleicons.org/gmail" width="32" /></a>
+</p>
 <!--
 **Sabid-Bin-Yousuf-Rahat/Sabid-Bin-Yousuf-Rahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
